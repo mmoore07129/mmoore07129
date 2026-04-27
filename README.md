@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Maxx
 
-<!--
-**mmoore07129/mmoore07129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Python and AI developer in Wyoming. I build production AI systems — RAG pipelines, automated trading bots, persistent agents — solo, end to end.
 
-Here are some ideas to get you started:
+### Currently shipping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[mlb-kalshi-bot](https://github.com/mmoore07129/mlb-kalshi-bot)** — production MLB moneyline trading bot for Kalshi. Pinnacle-primary fair-value sourcing, XGBoost veto, live on a DigitalOcean droplet under cron.
+
+### Focus areas
+
+Code evaluation · AI output assessment · LLM orchestration · RAG · automated trading systems · prediction pipelines
+
+### Background
+
+Pursuing B.S. Cyber Security at the University of Wyoming. Open to roles in AI evaluation, code review, and applied AI engineering.
+
+📫 maxxwyo7@gmail.com · [LinkedIn](https://linkedin.com/in/maxx-moore-27b481352)
